@@ -1,0 +1,16 @@
+/home/linuxpc/Desktop/Projects/GitTest/bin/Debug/net5.0/GitTest
+/home/linuxpc/Desktop/Projects/GitTest/bin/Debug/net5.0/GitTest.deps.json
+/home/linuxpc/Desktop/Projects/GitTest/bin/Debug/net5.0/GitTest.runtimeconfig.json
+/home/linuxpc/Desktop/Projects/GitTest/bin/Debug/net5.0/GitTest.runtimeconfig.dev.json
+/home/linuxpc/Desktop/Projects/GitTest/bin/Debug/net5.0/GitTest.dll
+/home/linuxpc/Desktop/Projects/GitTest/bin/Debug/net5.0/ref/GitTest.dll
+/home/linuxpc/Desktop/Projects/GitTest/bin/Debug/net5.0/GitTest.pdb
+/home/linuxpc/Desktop/Projects/GitTest/obj/Debug/net5.0/GitTest.csprojAssemblyReference.cache
+/home/linuxpc/Desktop/Projects/GitTest/obj/Debug/net5.0/GitTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/linuxpc/Desktop/Projects/GitTest/obj/Debug/net5.0/GitTest.AssemblyInfoInputs.cache
+/home/linuxpc/Desktop/Projects/GitTest/obj/Debug/net5.0/GitTest.AssemblyInfo.cs
+/home/linuxpc/Desktop/Projects/GitTest/obj/Debug/net5.0/GitTest.csproj.CoreCompileInputs.cache
+/home/linuxpc/Desktop/Projects/GitTest/obj/Debug/net5.0/GitTest.dll
+/home/linuxpc/Desktop/Projects/GitTest/obj/Debug/net5.0/ref/GitTest.dll
+/home/linuxpc/Desktop/Projects/GitTest/obj/Debug/net5.0/GitTest.pdb
+/home/linuxpc/Desktop/Projects/GitTest/obj/Debug/net5.0/GitTest.genruntimeconfig.cache
